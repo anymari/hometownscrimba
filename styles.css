@@ -167,10 +167,9 @@ section {
 
 
 .myface {
-    height: 248.6px;
-    width: 200px;
-    border-radius: 7px;
-    border-style: none;
+    height: 348.6px;
+    width: 300px;
+    border-radius: 10px;
     padding: 20px 10px 5px 10px;
     object-fit: contain;
 }
