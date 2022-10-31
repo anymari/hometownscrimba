@@ -154,7 +154,7 @@ h1 {
     position: static;
     justify-content: center;
 }
-#pjs #cars #shrimp {
+#pjs, #cars, #shrimp {
     width: 100px;
     height: 90px;
     border-radius: 50%;
