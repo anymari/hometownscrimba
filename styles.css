@@ -149,15 +149,7 @@ h1 {
     padding: 10px;
 }
 .three-activities {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    font-family: 'Fjalla One', sans-serif;
-    align-items: center;
-    margin: auto;
-    text-align: center;
-    position: absolute;
+    
 }
 
 
@@ -175,6 +167,15 @@ h1 {
     align-items: center;
     margin-top: 10px;
     margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-family: 'Fjalla One', sans-serif;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    position: absolute;
 }
 
 #cars{
