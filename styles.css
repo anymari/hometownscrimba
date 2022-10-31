@@ -137,11 +137,10 @@ h1 {
 
 .activities {
     background-color: #F1FAEE;
-    margin: auto;
     width: auto;
-    height: 530px;
+    height: 330px;
     text-align: center;
-    padding: 10px;
+    padding-top: 20px;
 }
 .link {
     font-family: 'Freehand', cursive;
