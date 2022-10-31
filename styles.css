@@ -168,7 +168,7 @@ h1 {
     flex-wrap: wrap;
     display: block;
     align-items: center;
-    padding: 20px;
+    margin-top: 10px;
 }
 
 #cars{
@@ -181,7 +181,7 @@ h1 {
     flex-wrap: wrap;
     display: block;
     align-items: center;
-    padding: 20px;
+    margin-top: 10px;
 }
 #shrimp {
     width: 100px;
@@ -193,7 +193,7 @@ h1 {
     flex-wrap: wrap;
     display: block;
     align-items: center;
-    padding: 20px;
+    margin-top: 10px;
 }
 
 section {
