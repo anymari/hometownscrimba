@@ -138,10 +138,12 @@ h1 {
 .activities {
     background-color: #F1FAEE;
     padding: 10px;
+    margins: auto;
 }
 .link {
     font-family: 'Freehand', cursive;
     color: #E63946;
+    margins: auto;
 }
 
 .three-activities {
