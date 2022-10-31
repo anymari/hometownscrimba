@@ -130,7 +130,7 @@ h1 {
     margin-left: 80%;
     inline-size: min-content;
 -webkit-text-stroke-width: 0.5px;
--webkit-text-stroke-color: #gray;
+-webkit-text-stroke-color: black;
     padding: 10px;
     float: right;
     width: 300px;
