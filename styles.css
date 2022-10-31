@@ -118,7 +118,13 @@ h1 {
   opacity: 1;
   width: auto;
 }
-
+.photo-id {
+    font-family: 'Fjalla One', sans-serif;
+    color: white;
+    display: block;
+    text-align: right:
+    margin-top: 330px;
+}
 
 .activities {
     background-color: #F1FAEE;
