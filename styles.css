@@ -120,14 +120,14 @@ h1 {
 }
 .photo-id {
     font-family: 'Fjalla One', sans-serif;
-    font-size: 2.5em;
+    font-size: 1.5em;
     font-weight: bold;
     color: white;
     display: block;
     text-align: right:
     margin-right: 10%;
     margin-left: 80%;
-    
+    inline-size: min-content;
 -webkit-text-stroke-width: 0.5px;
 -webkit-text-stroke-color: #gray;
 }
