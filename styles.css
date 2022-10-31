@@ -153,8 +153,9 @@ h1 {
     align-items: center;
     position: static;
     justify-content: center;
-    flex-wrap: wrap;
+    
 }
+
 #pjs {
     width: 100px;
     height: 90px;
@@ -162,6 +163,8 @@ h1 {
     border-style: solid;
     border-width: 5px;
     border-color: #457B9D;
+    flex-wrap: wrap;
+    display: block;
 }
 
 #cars{
@@ -171,6 +174,8 @@ h1 {
     border-style: solid;
     border-width: 5px;
     border-color: #457B9D;
+    flex-wrap: wrap;
+    display: block;
 }
 #shrimp {
     width: 100px;
@@ -179,6 +184,8 @@ h1 {
     border-style: solid;
     border-width: 5px;
     border-color: #457B9D;
+    flex-wrap: wrap;
+    display: block;
 }
 
 section {
