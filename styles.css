@@ -149,7 +149,7 @@ h1 {
     padding: 10px;
 }
 
-.three-activities {
+#three-activities {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
