@@ -82,7 +82,7 @@ h1 {
   margin: auto;
   border-radius: 10px;
   padding: 5px 5px 5px 5px
-  
+  text-height: 1.5;
 }
 .about:hover {
   background-color: red;
