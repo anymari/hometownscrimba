@@ -152,6 +152,7 @@ h1 {
     margin-right: 300px;
     align-content:center;
     position: static;
+    justify-content: center;
     
 }
 #pjs {
