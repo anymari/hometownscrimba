@@ -188,8 +188,8 @@ section {
 }
 
 .myface {
-    height: 248.6px;
-    width: 200px;
+    height: auto;
+    width: 100%;
     border-radius: 10%;
     object-fit: cover;
 }
