@@ -164,9 +164,7 @@ h1 {
     border-style: solid;
     border-width: 5px;
     border-color: #457B9D;
-    display: block;
     align-items: center;
-    margin-top: 10px;
 }
 
 #cars {
@@ -177,7 +175,6 @@ h1 {
     border-width: 5px;
     border-color: #457B9D;
     align-items: center;
-    margin-top: 10px;
 }
 #shrimp {
     width: 100px;
@@ -186,9 +183,7 @@ h1 {
     border-style: solid;
     border-width: 5px;
     border-color: #457B9D;
-    display: block;
     align-items: center;
-    margin-top: 10px;
 }
 
 section.final {
