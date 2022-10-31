@@ -139,6 +139,10 @@ h1 {
     background-color: #F1FAEE;
     padding: 10px;
 }
+.link {
+    font-family: 'Freehand', cursive;
+    color: #E63946;
+}
 
 .three-activities {
     display: flex;
