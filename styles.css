@@ -148,7 +148,8 @@ h1 {
     margins: auto;
     padding: 10px;
 }
-.three-activities {
+
+section.three-activities {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -157,7 +158,6 @@ h1 {
     text-align: center;
     position: fixed;
 }
-
 
 #pjs {
     width: 100px;
@@ -197,7 +197,7 @@ h1 {
     margin-top: 10px;
 }
 
-section {
+section.final {
   display: flex;
   justify-content: center;
   align-items: center;
