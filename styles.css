@@ -81,7 +81,7 @@ h1 {
   width: 450px;
   margin: auto;
   border-radius: 10px;
-  padding: 5px 5px 5px 5px
+  padding: 5px 5px 5px 5px;
   text-height: 150%;
 }
 .about:hover {
@@ -120,6 +120,8 @@ h1 {
 }
 .photo-id {
     font-family: 'Fjalla One', sans-serif;
+    font-size: 10px;
+    font-weight: bold;
     color: white;
     display: block;
     text-align: right:
