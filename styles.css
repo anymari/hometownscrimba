@@ -151,13 +151,10 @@ h1 {
     display: flex;
     font-family: 'Fjalla One', sans-serif;
     align-items: center;
-    margins: auto;
-    align-content:center;
     position: static;
     justify-content: center;
-    
 }
-#pjs {
+#pjs #cars #shrimp {
     width: 100px;
     height: 90px;
     border-radius: 50%;
@@ -166,23 +163,6 @@ h1 {
     border-color: #457B9D;
 }
 
-#cars {
-    width: 100px;
-    height: 90px;
-    border-radius: 50%;
-    border-style: solid;
-    border-width: 5px;
-    border-color: #457B9D;
-}
-
-#shrimp {
-    width: 100px;
-    height: 90px;
-    border-radius: 50%;
-    border-style: solid;
-    border-width: 5px;
-    border-color: #457B9D;
-}
 
 section {
   display: flex;
