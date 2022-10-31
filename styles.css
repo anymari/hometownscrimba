@@ -159,17 +159,7 @@ h1 {
     text-align: center;
 }
 
-.activity-pics {
-    display: flex;
-    flex-direction: row;
-    flex-align: center;
-}
 
-.activity-desc {
-    display: flex;
-    flex-direction: row;
-    flex-align: center;
-    
 #pjs {
     width: 100px;
     height: 90px;
