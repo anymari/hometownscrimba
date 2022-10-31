@@ -83,6 +83,7 @@ h1 {
   border-radius: 10px;
   padding: 5px 5px 5px 5px;
   text-height: 150%;
+    display: block;
 }
 .about:hover {
   background-color: red;
@@ -130,6 +131,9 @@ h1 {
     inline-size: min-content;
 -webkit-text-stroke-width: 0.5px;
 -webkit-text-stroke-color: #gray;
+    padding: 10px;
+    float: right;
+    width: 300px;
 }
 
 .activities {
