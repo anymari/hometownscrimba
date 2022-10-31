@@ -137,9 +137,9 @@ h1 {
 
 .activities {
     background-color: #F1FAEE;
-    margins: auto;
+    margins: 0;
     width: auto;
-    height: 430px;
+    height: 530px;
     text-align: center;
 }
 .link {
