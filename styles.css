@@ -82,7 +82,7 @@ h1 {
   margin: auto;
   border-radius: 10px;
   padding: 5px 5px 5px 5px
-  text-height: 1.5;
+  text-height: 150%;
 }
 .about:hover {
   background-color: red;
@@ -123,8 +123,8 @@ h1 {
     color: white;
     display: block;
     text-align: right:
-    margin-right: 0;
-    margin-left: 100%;
+    margin-right: 10%;
+    margin-left: 90%;
 }
 
 .activities {
