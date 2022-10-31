@@ -38,8 +38,8 @@ body {
   font-family: 'Freehand', cursive;
   padding-bottom: 10px;
   line-height: 2.5;
-  
 }
+
 .title:hover {
   background-color: red;
   color: white;
@@ -118,9 +118,7 @@ h1 {
   opacity: 1;
   width: auto;
 }
-.photo-id {
-    color: white;
-    text-align: right;
+
 
 .activities {
     background-color: #F1FAEE;
