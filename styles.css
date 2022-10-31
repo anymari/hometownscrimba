@@ -127,7 +127,8 @@ h1 {
     text-align: right:
     margin-right: 10%;
     margin-left: 80%;
--webkit-text-stroke-width: 10px;
+    
+-webkit-text-stroke-width: 0.5px;
 -webkit-text-stroke-color: #457B9D;
 }
 
