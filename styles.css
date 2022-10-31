@@ -118,6 +118,9 @@ h1 {
   opacity: 1;
   width: auto;
 }
+.photo-id {
+    color: white;
+    text-align: right;
 
 .activities {
     background-color: #F1FAEE;
