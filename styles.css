@@ -146,13 +146,20 @@ h1 {
     margins: auto;
     padding: 10px;
 }
-
-
-
-.activity-pics {
+.three-activities {
+    display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    font-family: 'Fjalla One', sans-serif;
     align-items: center;
+    position: static;
+    justify-content: center;
+    margin-right: 300px;
+    margin-left: 300px;
+    text-align: center;
+}
+
+
+
 
 #pjs {
     width: 100px;
