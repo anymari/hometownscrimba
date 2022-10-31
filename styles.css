@@ -149,7 +149,7 @@ h1 {
 
 .three-activities {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     font-family: 'Fjalla One', sans-serif;
     align-items: center;
     position: static;
@@ -160,7 +160,7 @@ h1 {
 }
 
 .activity-pics {
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-between;
     align-items: center;
 
