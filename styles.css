@@ -133,7 +133,25 @@ h1 {
     position: static;
     
 }
-img {
+#pjs {
+    width: 100px;
+    height: 90px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #457B9D;
+}
+
+#cars {
+    width: 100px;
+    height: 90px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #457B9D;
+}
+
+#shrimp {
     width: 100px;
     height: 90px;
     border-radius: 50%;
