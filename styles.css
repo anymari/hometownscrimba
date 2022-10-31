@@ -149,6 +149,7 @@ h1 {
 
 .three-activities {
     display: flex;
+    flex-direction: row;
     font-family: 'Fjalla One', sans-serif;
     align-items: center;
     position: static;
