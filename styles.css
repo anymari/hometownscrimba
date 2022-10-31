@@ -139,6 +139,8 @@ h1 {
     background-color: #F1FAEE;
     padding: 10px;
     margins: auto;
+    width: auto;
+    height: 330px;
 }
 .link {
     font-family: 'Freehand', cursive;
@@ -155,7 +157,7 @@ h1 {
     align-items: center;
     margin: auto;
     text-align: center;
-    position: static;
+    position: absolute;
 }
 
 
