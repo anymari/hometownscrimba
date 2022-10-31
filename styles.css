@@ -141,6 +141,7 @@ h1 {
     margins: auto;
     width: auto;
     height: 430px;
+    text-align: center;
 }
 .link {
     font-family: 'Freehand', cursive;
@@ -155,7 +156,6 @@ h1 {
     justify-content: space-between;
     font-family: 'Fjalla One', sans-serif;
     align-items: center;
-    text-align: center;
 }
 
 #pjs {
