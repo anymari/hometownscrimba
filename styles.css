@@ -120,7 +120,7 @@ h1 {
 }
 .photo-id {
     font-family: 'Fjalla One', sans-serif;
-    font-size: large;
+    font-size: 2.5em;
     font-weight: bold;
     color: white;
     display: block;
@@ -129,7 +129,7 @@ h1 {
     margin-left: 80%;
     
 -webkit-text-stroke-width: 0.5px;
--webkit-text-stroke-color: #457B9D;
+-webkit-text-stroke-color: #gray;
 }
 
 .activities {
