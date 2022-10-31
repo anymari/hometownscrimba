@@ -161,14 +161,14 @@ h1 {
 
 .activity-pics {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row;
+    flex-align: center;
 }
 
 .activity-desc {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row;
+    flex-align: center;
     
 #pjs {
     width: 100px;
