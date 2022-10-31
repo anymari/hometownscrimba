@@ -162,11 +162,17 @@ section {
     border-radius: 7px;
     border-bottom: thick solid #1D3557
 }
-
-
-.myface {
+#frame {
     height: 248.6px;
     width: 200px;
+    border-radius: 10px;
+    padding: 20px 10px 5px 10px;
+    object-fit: cover;
+}
+
+.myface {
+    height: auto;
+    width: 100%
     border-radius: 10px;
     padding: 20px 10px 5px 10px;
     object-fit: cover;
