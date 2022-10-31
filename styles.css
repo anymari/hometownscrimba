@@ -23,7 +23,8 @@ body {
     background-size: cover;
     height: 330px;
     width: auto;
-    padding: 60px 40px 60px 40px;  
+    padding: 60px 40px 60px 40px;
+    line-height: 2.5;
 }
 
 .title {
