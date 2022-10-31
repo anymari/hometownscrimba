@@ -149,24 +149,6 @@ h1 {
     padding: 10px;
 }
 .three-activities {
-    
-}
-
-
-
-
-#pjs {
-    width: 100px;
-    height: 90px;
-    border-radius: 50%;
-    border-style: solid;
-    border-width: 5px;
-    border-color: #457B9D;
-    flex-wrap: wrap;
-    display: block;
-    align-items: center;
-    margin-top: 10px;
-    margin: auto;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -177,6 +159,16 @@ h1 {
     text-align: center;
     position: absolute;
 }
+
+
+#pjs {
+    width: 100px;
+    height: 90px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #457B9D;
+    }
 
 #cars{
     width: 100px;
