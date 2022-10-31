@@ -144,14 +144,14 @@ h1 {
     font-family: 'Freehand', cursive;
     color: #E63946;
     margins: auto;
+    padding: 10px;
 }
 
 .three-activities {
     display: flex;
     font-family: 'Fjalla One', sans-serif;
     align-items: center;
-    margin-left: 300px;
-    margin-right: 300px;
+    margins: auto;
     align-content:center;
     position: static;
     justify-content: center;
