@@ -158,7 +158,9 @@ h1 {
     margin-left: 300px;
     text-align: center;
 }
-
+.activitya {
+    text-align: center;
+}
 #pjs {
     width: 100px;
     height: 90px;
