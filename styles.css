@@ -147,17 +147,7 @@ h1 {
     padding: 10px;
 }
 
-.three-activities {
-    display: flex;
-    flex-direction: row;
-    font-family: 'Fjalla One', sans-serif;
-    align-items: center;
-    position: static;
-    justify-content: center;
-    margin-right: 300px;
-    margin-left: 300px;
-    text-align: center;
-}
+
 
 .activity-pics {
     flex-direction: row;
