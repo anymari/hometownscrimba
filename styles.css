@@ -149,7 +149,7 @@ h1 {
     padding: 10px;
 }
 
-section.three-activities {
+.three-activities {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -172,7 +172,7 @@ section.three-activities {
     margin-top: 10px;
 }
 
-#cars{
+#cars {
     width: 100px;
     height: 90px;
     border-radius: 50%;
