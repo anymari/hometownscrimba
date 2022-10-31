@@ -158,11 +158,18 @@ h1 {
     margin-left: 300px;
     text-align: center;
 }
-.activitya {
-   display: flex;
+
+.activity-pics {
+    display: flex;
+    flex-direction: row;
     justify-content: center;
-    align-items: center;
 }
+
+.activity-desc {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
 #pjs {
     width: 100px;
     height: 90px;
