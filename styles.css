@@ -159,7 +159,9 @@ h1 {
     text-align: center;
 }
 .activitya {
-    text-align: center;
+   display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #pjs {
     width: 100px;
